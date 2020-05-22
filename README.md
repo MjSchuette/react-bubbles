@@ -26,17 +26,30 @@ In this project you will create a login page and request a token from the server
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
-- [ ] Explain what a token is used for.
-- [ ] What steps can you take in your web apps to keep your data secure?
+- [x] Explain what a token is used for.
+
+  `Tokens are used for authentication`
+
+- [x] What steps can you take in your web apps to keep your data secure?
+
+  `You can set up protected Routes and use authentication to keep data secure`
+
 - [ ] Describe how web servers work.
+
+  `When a person attempts to visit a website, they are making a request to that server. The server takes that request, processes it, aand returns the information in accordance with its programming`
+
 - [ ] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
 
+  `C => post`
+  `R => get`
+  `U => put`
+  `D => delete`
 
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
 
-- [ ] Create a forked copy of this project.
+- [x] Create a forked copy of this project.
 - [ ] Add PM as collaborator on Github.
 - [ ] Clone your OWN version of Repo (Not Lambda's by mistake!).
 - [ ] Create a new Branch on the clone: git checkout -b `<firstName-lastName>`.
