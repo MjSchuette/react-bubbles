@@ -34,11 +34,11 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
   `You can set up protected Routes and use authentication to keep data secure`
 
-- [ ] Describe how web servers work.
+- [x] Describe how web servers work.
 
   `When a person attempts to visit a website, they are making a request to that server. The server takes that request, processes it, aand returns the information in accordance with its programming`
 
-- [ ] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+- [x] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
 
   `C => post`
   `R => get`
