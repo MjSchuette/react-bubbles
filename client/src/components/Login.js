@@ -48,7 +48,7 @@ const Login = props => {
             type='text'
             name='password'
             placeholder='Password'
-            value={credentials.username}
+            value={credentials.password}
             onChange={handleChange}
             />
             <button className="Submit">Submit</button>
