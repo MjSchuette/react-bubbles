@@ -1,0 +1,21 @@
+.LoginInput {
+    width: 30%;
+    text-align: center;
+    align-items: center;
+    padding: .5%;
+    margin: 2% auto;
+    border-radius: 10px;
+}
+
+.Title {
+    margin: auto 30%;
+}
+
+.Submit {
+    background-color: aqua;
+    color: blueviolet;
+    margin: 5% auto;
+    padding: 2%;
+    border-radius: 10px;
+
+}
